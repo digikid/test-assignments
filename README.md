@@ -1,3 +1,3 @@
-# Тестовые задания
+# Test assignments
 
-Тестовые задания для прохождения собеседований
+Test assignments for interviewing with employers
